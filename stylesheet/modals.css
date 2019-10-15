@@ -1,0 +1,244 @@
+.imgBox{
+	overflow: hidden;
+	height: 50%;
+	background-image: url('http://mszgroup.ge/media/images/addedimages/3/mszgeorgia_steal_suspended1.jpg');
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+}
+
+.imgBox:nth-child(2){
+	background-image: url('http://mszgroup.ge/media/images/addedimages/3/mszgeorgia_steal_suspended4.jpg');
+}
+
+#Modal1 .modal-body .col-6:nth-child(2) .imgBox:nth-child(1){
+	background-image: url('http://mszgroup.ge/media/images/articles/d.jpg');
+}
+
+
+#Modal1 .modal-body .col-6:nth-child(2) .imgBox:nth-child(2){
+	background-image: url('http://mszgroup.ge/media/images/articles6/article614.jpg');
+}
+
+
+
+#Modal2 .modal-body .col-6:nth-child(1) .imgBox:nth-child(1){
+	background-image: url(http://mszgroup.ge/media/images/addedimages/11/mszgeorgia_aluminum_coil_2.jpg);
+}
+
+#Modal2 .modal-body .col-6:nth-child(1) .imgBox:nth-child(2){
+	background-image: url('http://mszgroup.ge/media/images/addedimages/409/mszgeorgia_filebi_2.jpg');
+}
+
+#Modal2 .modal-body .col-6:nth-child(2) .imgBox:nth-child(1){
+	background-image: url('http://mszgroup.ge/media/images/addedimages/138/mszgeorgia_roofm_3.jpg');
+}
+
+
+#Modal2 .modal-body .col-6:nth-child(2) .imgBox:nth-child(2){
+	background-image: url('http://mszgroup.ge/media/images/addedimages/138/mszgeorgia_roofm_2.jpg');
+}
+
+
+#Modal3 .modal-body .col-6:nth-child(1) .imgBox:nth-child(1){
+	background-image: url('http://mszgroup.ge/media/images/addedimages/233/mszgeorgia_samedicino_1.jpg');
+}
+
+#Modal3 .modal-body .col-6:nth-child(1) .imgBox:nth-child(2){
+	background-image: url('http://mszgroup.ge/media/images/addedimages/280/mszgeorgia_samedicino_3.jpg');
+}
+
+#Modal3 .modal-body .col-6:nth-child(2) .imgBox:nth-child(1){
+	background-image: url('http://mszgroup.ge/media/images/addedimages/310/mszgeorgia_samedicino_1.jpg');
+}
+
+#Modal3 .modal-body .col-6:nth-child(2) .imgBox:nth-child(2){
+	background-image: url('http://mszgroup.ge/media/images/addedimages/238/mszgeorgia_samedicino_1.jpg');
+}
+
+
+#Modal4 .modal-body .col-6:nth-child(1) .imgBox:nth-child(1){
+	background-image: url('http://mszgroup.ge/media/images/articles6/article572.jpg');
+}
+
+#Modal4 .modal-body .col-6:nth-child(1) .imgBox:nth-child(2){
+	background-image: url('http://mszgroup.ge/media/images/articles5/article549.jpg');
+}
+
+#Modal4 .modal-body .col-6:nth-child(2) .imgBox:nth-child(1){
+	background-image: url('http://mszgroup.ge/media/images/articles5/article555.jpg');
+}
+
+#Modal4 .modal-body .col-6:nth-child(2) .imgBox:nth-child(2){
+	background-image: url('http://mszgroup.ge/media/images/articles6/article559.jpg');
+}
+
+
+#Modal5 .modal-body .col-6:nth-child(1) .imgBox:nth-child(1){
+	background-image: url('http://mszgroup.ge/media/images/addedimages/209/mszgeorgia_parking_2.jpg');
+}
+
+#Modal5 .modal-body .col-6:nth-child(1) .imgBox:nth-child(2){
+	background-image: url('http://mszgroup.ge/media/images/addedimages/213/mszgeorgia_parking_2.jpg');
+}
+
+#Modal5 .modal-body .col-6:nth-child(2) .imgBox:nth-child(1){
+	background-image: url('http://mszgroup.ge/media/images/addedimages/216/mszgeorgia_parking_3.jpg');
+}
+
+#Modal5 .modal-body .col-6:nth-child(2) .imgBox:nth-child(2){
+	background-image: url('http://mszgroup.ge/media/images/addedimages/216/mszgeorgia_parking_4.jpg');
+}
+
+
+#Modal6 .modal-body .col-6:nth-child(1) .imgBox:nth-child(1){
+	background-image: url('http://mszgroup.ge/media/images/articles5/article509.jpeg');
+}
+
+#Modal6 .modal-body .col-6:nth-child(1) .imgBox:nth-child(2){
+	background-image: url('http://mszgroup.ge/media/images/addedimages/333/mszgeorgia_halogeni_2.jpg');
+}
+
+#Modal6 .modal-body .col-6:nth-child(2) .imgBox:nth-child(1){
+	background-image: url('http://mszgroup.ge/media/images/addedimages/418/mszgeorgia_chagi_4.jpg');
+}
+
+#Modal6 .modal-body .col-6:nth-child(2) .imgBox:nth-child(2){
+	background-image: url('http://mszgroup.ge/media/images/addedimages/414/mszgeorgia_chagi_3.jpg');
+}
+
+
+#Modal7 .modal-body .col-6:nth-child(1) .imgBox:nth-child(1){
+	background-image: url('http://mszgroup.ge/media/images/addedimages/169/mszgeorgia_xalichebi_2.jpg');
+}
+
+#Modal7 .modal-body .col-6:nth-child(1) .imgBox:nth-child(2){
+	background-image: url('http://mszgroup.ge/media/images/articles6/article596.jpg');
+}
+
+#Modal7 .modal-body .col-6:nth-child(2) .imgBox:nth-child(1){
+	background-image: url('http://mszgroup.ge/media/images/articles6/article604.jpg');
+}
+
+#Modal7 .modal-body .col-6:nth-child(2) .imgBox:nth-child(2){
+	background-image: url('http://mszgroup.ge/media/images/addedimages/163/mszgeorgia_xalichebi_3.jpg');
+}
+
+
+#Modal8 .modal-body .col-6:nth-child(1) .imgBox:nth-child(1){
+	background-image: url('http://mszgroup.ge/media/images/articles7/article724.jpeg');
+}
+
+#Modal8 .modal-body .col-6:nth-child(1) .imgBox:nth-child(2){
+	background-image: url('http://mszgroup.ge/media/images/articles7/3.jpg');
+}
+
+#Modal8 .modal-body .col-6:nth-child(2) .imgBox:nth-child(1){
+	background-image: url('http://mszgroup.ge/media/images/articles6/article604.jpg');
+}
+
+#Modal8 .modal-body .col-6:nth-child(2) .imgBox:nth-child(2){
+	background-image: url('http://mszgroup.ge/media/images/articles7/1.jpg');
+}
+
+
+#Modal9 .modal-body .col-6:nth-child(1) .imgBox:nth-child(1){
+	background-image: url('http://mszgroup.ge/media/images/addedimages/493/image1.jpeg');
+}
+
+#Modal9 .modal-body .col-6:nth-child(1) .imgBox:nth-child(2){
+	background-image: url('http://mszgroup.ge/media/images/addedimages/493/image2.jpeg');
+}
+
+#Modal9 .modal-body .col-6:nth-child(2) .imgBox:nth-child(1){
+	background-image: url('http://mszgroup.ge/media/images/addedimages/493/image3.jpeg');
+}
+
+#Modal9 .modal-body .col-6:nth-child(2) .imgBox:nth-child(2){
+	background-image: url('http://mszgroup.ge/media/images/addedimages/493/image4.png');
+}
+
+
+#Modal10 .modal-body .col-6:nth-child(1) .imgBox:nth-child(1){
+	background-image: url('http://mszgroup.ge/media/images/addedimages/467/image1.jpg');
+}
+
+#Modal10 .modal-body .col-6:nth-child(1) .imgBox:nth-child(2){
+	background-image: url('http://mszgroup.ge/media/images/addedimages/467/image4.jpg');
+}
+
+#Modal10 .modal-body .col-6:nth-child(2) .imgBox:nth-child(1){
+	background-image: url('http://mszgroup.ge/media/images/articles5/article519.jpg');
+}
+
+#Modal10 .modal-body .col-6:nth-child(2) .imgBox:nth-child(2){
+	background-image: url('http://mszgroup.ge/media/images/articles6/article637.jpg');
+}
+
+
+#Modal11 .modal-body .col-6:nth-child(1) .imgBox:nth-child(1){
+	background-image: url('http://mszgroup.ge/media/images/articles5/article516.jpg');
+}
+
+#Modal11 .modal-body .col-6:nth-child(1) .imgBox:nth-child(2){
+	background-image: url('http://mszgroup.ge/media/images/addedimages/461/image1.jpg');
+}
+
+#Modal11 .modal-body .col-6:nth-child(2) .imgBox:nth-child(1){
+	background-image: url('http://mszgroup.ge/media/images/articles5/image.jpg');
+}
+
+#Modal11 .modal-body .col-6:nth-child(2) .imgBox:nth-child(2){
+	background-image: url('http://mszgroup.ge/media/images/addedimages/463/image1.jpg');
+}
+
+
+#Modal12 .modal-body .col-6:nth-child(1) .imgBox:nth-child(1){
+	background-image: url('http://mszgroup.ge/media/images/articles7/article710.jpeg');
+}
+
+#Modal12 .modal-body .col-6:nth-child(1) .imgBox:nth-child(2){
+	background-image: url('http://mszgroup.ge/media/images/addedimages/494/image2.jpeg');
+}
+
+#Modal12 .modal-body .col-6:nth-child(2) .imgBox:nth-child(1){
+	background-image: url('http://mszgroup.ge/media/images/addedimages/494/image3.jpeg');
+}
+
+#Modal12 .modal-body .col-6:nth-child(2) .imgBox:nth-child(2){
+	background-image: url('http://mszgroup.ge/media/images/addedimages/494/image4.jpeg');
+}
+
+
+#Modal13 .modal-body .col-6:nth-child(1) .imgBox:nth-child(1){
+	background-image: url('http://mszgroup.ge/media/images/addedimages/186/mszgeorgia_xelovnuri_balakhi_1.jpg');
+}
+
+#Modal13 .modal-body .col-6:nth-child(1) .imgBox:nth-child(2){
+	background-image: url('http://mszgroup.ge/media/images/addedimages/186/mszgeorgia_xelovnuri_balakhi_5.jpg');
+}
+
+#Modal13 .modal-body .col-6:nth-child(2) .imgBox:nth-child(1){
+	background-image: url('http://mszgroup.ge/media/images/articles6/article653.jpeg');
+}
+
+#Modal13 .modal-body .col-6:nth-child(2) .imgBox:nth-child(2){
+	background-image: url('http://mszgroup.ge/media/images/addedimages/338/mszgeorgia_atraqcionebi_1.jpg');
+}
+
+
+#Modal14 .modal-body .col-6:nth-child(1) .imgBox:nth-child(1){
+	background-image: url('http://mszgroup.ge/media/images/articles7/article680.jpeg');
+}
+
+#Modal14 .modal-body .col-6:nth-child(1) .imgBox:nth-child(2){
+	background-image: url('http://mszgroup.ge/media/images/articles7/article714.jpg');
+}
+
+#Modal14 .modal-body .col-6:nth-child(2) .imgBox:nth-child(1){
+	background-image: url('http://mszgroup.ge/media/images/articles6/article653.jpeg');
+}
+
+#Modal14 .modal-body .col-6:nth-child(2) .imgBox:nth-child(2){
+	background-image: url('http://mszgroup.ge/media/images/articles5/article544.jpg');
+}
